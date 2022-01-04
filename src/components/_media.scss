@@ -1,0 +1,38 @@
+@media screen and (max-width: 800px) {
+   body {
+      font-size: 18px;
+   }
+
+   header {
+      h1 {
+         font-size: 30px;
+         margin: 10px 0;
+      }
+      img[alt='sun icon'] {
+         width: 100px;
+      }
+
+   }
+
+   
+
+   .result {
+
+      h3 {
+         margin: 10px;
+      }
+
+      section {
+
+         .sky,
+         .temp,
+         .wind {
+            max-width: 250px;
+
+            img {
+               width: 50px;
+            }
+         }
+      }
+   }
+}
