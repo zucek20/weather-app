@@ -12,7 +12,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://zucek20.gihub.io/weather-app",
+  "homepage": "https://zucek20.github.io/weather-app",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
