@@ -9,3 +9,9 @@ Project contains my own Design made in Figma and Affinity suite.
 
 ## Usage
 You can click the GH pages link to use the aplication right away: [Weather App](https://zucek20.github.io/weather-app/)
+
+## Design
+
+Application was designed in Figma.
+
+design link [here](https://www.figma.com/file/TVGV4MJTQufSbL6gHrIwjz/Weather-App).
