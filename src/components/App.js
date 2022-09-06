@@ -86,7 +86,7 @@ class App extends React.Component {
                />
                
                {this.renderResult()}
-               <p className="footer">&copy; Paweł Izdebski 2021</p>
+               <p className="footer">Paweł Izdebski 2021</p>
             </div>
          </>
       )
